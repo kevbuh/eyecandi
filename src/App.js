@@ -27,7 +27,7 @@ function App() {
         !
       </h2>
       <p>
-        <a
+        {/* <a
           href="https://github.com/vercel/vercel/tree/main/examples/create-react-app"
           target="_blank"
           rel="noreferrer noopener"
@@ -41,15 +41,15 @@ function App() {
         and contains three directories, <code>/public</code> for static assets,{' '}
         <code>/src</code> for components and content, and <code>/api</code>{' '}
         which contains a serverless <a href="https://golang.org/">Go</a>{' '}
-        function. See{' '}
+        function. See{' '} */}
         <a href="/api/date">
-          <code>api/date</code> for the Date API with Go
+          <code>AI POWERED EYE CANDY</code>
         </a>
-        .
+        {/* . */}
       </p>
       <br />
-      <h2>The date according to Go is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
+      {/* <h2>The date according to Go is:</h2>
+      <p>{date ? date : 'Loading date...'}</p> */}
     </main>
   );
 }
