@@ -15,7 +15,7 @@ function App() {
   return (
     <main>
       <h1>Eye Candy</h1>
-      <h2>
+      {/* <h2>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
@@ -25,8 +25,8 @@ function App() {
           Vercel
         </a>
         !
-      </h2>
-      <p>
+      </h2> */}
+      <h2>
         {/* <a
           href="https://github.com/vercel/vercel/tree/main/examples/create-react-app"
           target="_blank"
@@ -46,7 +46,7 @@ function App() {
           <code>AI POWERED EYE CANDY</code>
         </a>
         {/* . */}
-      </p>
+      </h2>
       <br />
       {/* <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p> */}
